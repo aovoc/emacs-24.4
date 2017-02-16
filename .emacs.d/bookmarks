@@ -1,0 +1,15 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("穆斯林的葬礼，lastest read point."
+ (filename . "f:/Users/ChenMQ/Documents/reading/穆斯林的葬礼.txt")
+ (front-context-string . "\n\n\n\n第六章　月明（二）\n\n\n")
+ (rear-context-string . "-------------\n　　")
+ (position . 126008))
+("傲慢与偏见, latest read point."
+ (filename . "f:/Users/ChenMQ/Documents/reading/未读完/傲慢与偏见.txt")
+ (front-context-string . "\n　　班纳特先生的全部家当几乎都")
+ (rear-context-string . "\n    --------\n")
+ (position . 15756))
+)
