@@ -1,15 +1,12 @@
-;;You have to create a new '.emacs' file in the path 'C:\Users\%(UserName)\AppData\Roaming'
-;;The content is like below, do not foget to change the absolute path. have fun! : )
-;;
-;;(load-file "F:/Users/ChenMQ/emacs-24.4/.emacs")
-;;
+(load-file "~/.emacs.d/init.el")
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  
 ;; emacs in windows  
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  
-(setenv "HOME" "F:/Users/ChenMQ/emacs-24.4")  
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;default '.emacs' file in the path 'C:\Users\%(UserName)\AppData\Roaming'
+;;(setenv "HOME" "F:/Users/ChenMQ/emacs-24.4")  
 ;;(setenv "PATH" "F:/Users/ChenMQ/emacs-24.4") 
-(load-file "F:/Users/ChenMQ/emacs-24.4/.emacs.d/init.el")
+;;(load-file "F:/Users/ChenMQ/emacs-24.4/.emacs.d/init.el")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
